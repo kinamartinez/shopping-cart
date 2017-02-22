@@ -13,5 +13,13 @@
     "font-awesome": "^4.5.0",
     "handlebars": "^4.0.5",
     "jquery": "^2.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinamartinez/shopping-cart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kinamartinez/shopping-cart/issues"
+  },
+  "homepage": "https://github.com/kinamartinez/shopping-cart#readme"
 }
